@@ -1,0 +1,57 @@
+.game-name {
+    font-size: 50px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    color: rgb(4, 163, 129);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 4px 4px 8px #fff;
+}
+
+body{
+    background-color:aquamarine;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
+
+.instructions {
+    margin: 0;
+    padding: 0;
+    background-color:darkcyan;
+    text-align: center;
+    height: 140px;
+}
+.instructions h1 {
+    padding-top: 20px;
+    font-size: 30px;
+    letter-spacing: 2px;
+    color: white;
+    text-shadow: 1px 1px 4px #000000;  
+}
+
+.instructions .text{
+    color:white;
+    font-size: 20px;
+}
+
+.score {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: rgb(4, 163, 129);
+    text-shadow: 1px 1px 4px #fff;
+}
+
+#grid {
+    margin: auto;
+    height : 360px;
+    width: 480px;
+}
+
+
+#grid img{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
